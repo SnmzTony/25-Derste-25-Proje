@@ -2,7 +2,7 @@
 
 # Merhaba!
 
-Hoş geldiniz! Ben Murat Yücedağ tarafından Udemy'de 25 Derste 25 Proje Eğitimi kapsamında geliştirdiğim nispeten büyük çaplı projeleri bu repo üzerinden paylaşıyorum. İşte projelerim, zkronolojik sırayla dizdim, bu şekilde nasıl geliştiğimi görebiliyorum:
+Hoş geldiniz! Ben Murat Yücedağ tarafından Udemy'de 25 Derste 25 Proje Eğitimi kapsamında geliştirdiğim nispeten büyük çaplı projeleri bu repo üzerinden paylaşıyorum. İşte projelerim, kronolojik sırayla dizdim, bu şekilde nasıl geliştiğimi görebiliyorum:
 
 1. [**Öğrenci Sınav Not Kayıt Sistemi**](https://github.com/SnmzTony/25-Derste-25-Proje/tree/%C3%96%C4%9Frenci-S%C4%B1nav-Not-Kay%C4%B1t-Sistemi)
    - Açıklama: Bu uygulama öğrenci sınav notlarını kaydedip görüntüleyebileceğiniz bir sistemdir.
