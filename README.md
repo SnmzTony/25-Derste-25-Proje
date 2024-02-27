@@ -16,6 +16,6 @@ Umarım uygulamalarımı incelersiniz. Buradan tekrar Murat Hocama sevgi ve sela
 
 Bana ulaşmak için:
 - Mail: [snmz.mert27@gmail.com](mailto:snmz.mert27@gmail.com)
-- LinkedIn: [Profil Linki](https://www.linkedin.com/in/mert-sonmez-83b889246/)
+- LinkedIn: [Mert Sönmez](https://www.linkedin.com/in/mert-sonmez-83b889246/)
 
 ---
